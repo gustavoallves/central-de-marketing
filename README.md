@@ -35,7 +35,7 @@ Dois desenvolvedores, com o gestor de marketing como dono do produto.
 
 - **O outro desenvolvedor** montou a base da plataforma e é dono da parte de IA (o estúdio que gera
   imagens e textos de marketing).
-- **Gustavo** participou das primeiras decisões que planejaram o projeto e hoje cria e lapida
+- **Eu** participei das primeiras decisões que planejaram o projeto e hoje crio e lapido
   funcionalidades: a agenda de eventos, as campanhas, o placar das campanhas de vendas, boa parte do
   quadro de tarefas, a atualização em tempo real e as tarefas que se repetem.
 
